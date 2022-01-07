@@ -1,3 +1,9 @@
+# Data Files
+data/
+preprocessed_data.csv
+preprocessed_data_ints.csv
+
+
 # History files
 .Rhistory
 .Rapp.history
